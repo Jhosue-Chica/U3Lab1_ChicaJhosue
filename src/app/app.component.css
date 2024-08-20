@@ -1,0 +1,51 @@
+.toolbar {
+  background-color: #a53fb5;
+  color: white;
+}
+
+.toolbar-title {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.toolbar-spacer {
+  flex: 1 1 auto;
+}
+
+.toolbar-search {
+  width: 300px;
+  height: 100%;
+  align-items: center;
+  margin-top: 2%;
+}
+
+.toolbar-icon {
+  margin-left: 10px;
+}
+
+.toolbar-language {
+  margin-right: 10px;
+}
+
+.main-content {
+  padding: 20px;
+}
+
+.table-card {
+  margin-bottom: 20px;
+  color: rgb(238, 151, 255);
+}
+
+.info-card {
+  margin-bottom: 20px;
+  color: rgb(238, 151, 255);
+  position: relative;
+}
+
+.fab-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #a53fb5;
+  color: white;
+}
